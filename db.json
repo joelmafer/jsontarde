@@ -1,0 +1,107 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith"
+        },
+        {
+            "id": 3,
+            "name": "Marxel Proust"
+        },
+        {
+            "id": 4,
+            "name": "Fiódor Dostoiévski"
+        },
+        {
+            "id": 5,
+            "name": "Edgar Allan Poe"
+        },
+        {
+            "id": 6,
+            "name": "William Shakespeare"
+        },
+        {
+            "id": 7,
+            "name": "Miguel de Cervantes"
+        },
+        {
+            "id": 8,
+            "name": "Clarice Lispector"
+        },
+        {
+            "id": 9,
+            "name": "José Saramago"
+        },
+        {
+            "id": 10,
+            "name": "Gabriel García Márquez"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post",
+            "body": "Conteúdo do Post 1",
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "title": "Post",
+            "body": "Conteúdo do Post 2",
+            "userId": 1
+        },
+        {
+            "id": 3,
+            "title": "Post",
+            "body": "Conteúdo do Post 3",
+            "userId": 2
+        },
+        {
+            "id": 4,
+            "title": "Post",
+            "body": "Conteúdo do Post 4",
+            "userId": 1
+        },
+        {
+            "id": 5,
+            "title": "Post",
+            "body": "Conteúdo do Post 5",
+            "userId": 1
+        },
+        {
+            "id": 6,
+            "title": "Post",
+            "body": "Conteúdo do Post 6",
+            "userId": 2
+        }
+        {
+            "id": 7,
+            "title": "Post",
+            "body": "Conteúdo do Post 7",
+            "userId": 1
+        },
+        {
+            "id": 8,
+            "title": "Post",
+            "body": "Conteúdo do Post 8",
+            "userId": 1
+        },
+        {
+            "id": 9,
+            "title": "Post",
+            "body": "Conteúdo do Post 9",
+            "userId": 2
+        },
+        {
+            "id": 10,
+            "title": "Post",
+            "body": "Conteúdo do Post 10",
+            "userId": 2
+        }
+
+    ]
+}

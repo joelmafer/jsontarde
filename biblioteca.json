@@ -1,0 +1,138 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Ficção"
+        },
+        {
+            "id": 2,
+            "nome": "Não Ficção"
+        },
+        {
+            "id": 3,
+            "nome": "História"
+        },
+        {
+            "id": 4,
+            "nome": "Comedia"
+        },
+        {
+            "id": 5,
+            "nome": "Infantil"
+        },
+        {
+            "id": 6,
+            "nome": "Ação e Aventura"
+        },
+        {
+            "id": 7,
+            "nome": "Anatomia"
+        },
+        {
+            "id": 8,
+            "nome": "Ficção"
+        },
+        {
+            "id": 9,
+            "nome": "Romance"
+        },
+        {
+            "id": 10,
+            "nome": "Conto"
+        }
+    ],
+    "livros": [
+        {
+            "id": 1,
+            "titulo": "Dom Quixote",
+            "autor": "Miguel de Cervantes",
+            "anoPublicacao": 1605,
+            "isbn": "978-85-359-0277-3",
+            "disponivel": true,
+            "categoriaId": 1
+        },
+        {
+            "id": 2,
+            "titulo": "Origens",
+            "autor": "Neil deGrasse Tyson",
+            "anoPublicacao": 2017,
+            "isbn": "978-85-359-0650-4",
+            "disponivel": true,
+            "categoriaId": 2
+        },
+        {
+            "id": 3,
+            "titulo": "Uma Breve História do Tempo",
+            "autor": "Stephen Hawking",
+            "anoPublicacao": 1988,
+            "isbn": "978-85-359-0278-0",
+            "disponivel": false,
+            "categoriaId": 2
+        },
+        {
+            "id": 4,
+            "titulo": "A Galinha dos Ovos de Ouro",
+            "autor": "Stephen benk",
+            "anoPublicacao": 1966,
+            "isbn": "978-85-359-9745-1",
+            "disponivel": false,
+            "categoriaId": 2
+        },
+        {
+            "id": 5,
+            "titulo": "Além do Tempo",
+            "autor": "sthefany Benjamin",
+            "anoPublicacao": 1978,
+            "isbn": "978-85-359-0298-2",
+            "disponivel": false,
+            "categoriaId": 2
+        },
+        {
+            "id": 6,
+            "titulo": "Literalmente Amigas",
+            "autor": "Laura Conrado",
+            "anoPublicacao": 1999,
+            "isbn": "978-85-359-0281-3",
+            "disponivel": false,
+            "categoriaId": 2
+        },
+        {
+            "id": 7,
+            "titulo": "Crepusculo",
+            "autor": "Stephenie Meyer",
+            "anoPublicacao": 2000,
+            "isbn": "978-85-359-0977-7",
+            "disponivel": false,
+            "categoriaId": 2
+        },
+        {
+            "id": 8,
+            "titulo": "Amanhecer",
+            "autor": "Stephenie Meyer",
+            "anoPublicacao": 2005,
+            "isbn": "978-85-359-0779-8",
+            "disponivel": false,
+            "categoriaId": 2
+        },
+        {
+            "id": 9,
+            "titulo": "Apenas Uma Garota",
+            "autor": "Meredith Russo",
+            "anoPublicacao": 2001,
+            "isbn": "978-85-359-0674-7",
+            "disponivel": false,
+            "categoriaId": 2
+        },
+        {
+            "id": 10,
+            "titulo": "Eu e Eles",
+            "autor": "Bendita Diva",
+            "anoPublicacao": 2006,
+            "isbn": "978-85-359-0889-5",
+            "disponivel": false,
+            "categoriaId": 2
+        }
+        
+        
+    ]
+}
